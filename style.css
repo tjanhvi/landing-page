@@ -3419,388 +3419,133 @@ footer p{
 	text-align: center;
 	line-height: 16px;
 }
-</style>
-<div class="clearfix">
-<div class="footer-left">
-	<p class="copyright">Copyright &copy; 2022 Worldwide Media | The Times of India. All Rights Reserved.</p>
-</div>
-	<div class="footer-right">
-		<p>
-<a href="https://www.filmfare.com/awards/short-films-2022/">Short Film Awards 2022</a> |
-<a href="https://www.filmfare.com/awards/filmfare-ott-awards-2022/">Filmfare OTT Awards 2022</a> |
-<a href="https://www.filmfare.com/awards/filmfare-awards-south-2022/">Filmfare Awards South 2022</a> |
-<a href="https://www.filmfare.com/awards/short-films-2021/">Short Film Awards 2021</a> |
-<a href="https://www.filmfare.com/awards/filmfare-ott-awards-2021/">Filmfare OTT Awards 2021</a> |
-<a href="https://www.filmfare.com/awards/filmfare-awards-2021/">Filmfare Awards 2021</a> |
-<a href="https://www.filmfare.com/awards/filmfare-awards-marathi-2021/">Filmfare Awards Marathi 2021</a> |
-<a href="https://www.filmfare.com/awards/filmfare-awards-bangla-2021/">Filmfare Awards Bangla 2021</a> |
-<a href="https://www.filmfare.com/awards/short-films-2020/">Short Film Awards 2020</a> |
-<a href="https://www.filmfare.com/awards/filmfare-ott-awards-2020/">Filmfare OTT Awards 2020</a> |
-<a href="https://www.filmfare.com/awards/filmfare-awards-2020/">Filmfare Awards 2020</a> |
-<a href="https://www.filmfare.com/awards/filmfare-awards-marathi-2020/">Filmfare Awards Marathi 2020</a> |
-<a href="https://www.filmfare.com/awards/filmfare-awards-bangla-2020/">Filmfare Awards Bangla 2020</a> |
-<a href="https://www.filmfare.com/awards/filmfare-awards-2022/terms">Terms and Conditions</a> | 
-<a href="https://www.filmfare.com/privacypolicy" target="_blank">Privacy Policy</a>
-		</p>
-	</div>
-</div>
 
-</footer>
-<style>
-    .optanon-alert-box-wrapper * {
-        font-family: Arial, sans-serif;
-        background: none;
-        border: none;
-        bottom: auto;
-        clear: none;
-        float: none;
-        height: auto;
-        left: auto;
-        letter-spacing: normal;
-        line-height: normal;
-        max-height: none;
-        max-width: none;
-        min-height: 0;
-        min-width: 0;
-        overflow: visible;
-        right: auto;
-        text-align: left;
-        text-decoration: none;
-        text-indent: 0;
-        text-transform: none;
-        text-shadow: none;
-        top: auto;
-        visibility: visible;
-        white-space: normal;
-        width: auto;
-        z-index: auto;
-        padding: 0;
-        margin: 0;
-        border-radius: 0;
-        position: static;
-        font-weight: normal;
-    }.optanon-alert-box-wrapper {
-        position: fixed;
-        width: 100%;
-        border: none;
-        background-color: rgba(0,0,0,0.85);
-        bottom: -145px;
-        z-index: 2147483644;
-        min-height: 50px;
-    }
-    .optanon-alert-box-wrapper {
-        background-color: #555555 !important;
-    }.optanon-alert-box-wrapper.open {
-        background-color: #fff;
-        height: 103px;
-        padding: 15px 0;
-        border-top: 1px solid #ffde1c;    display: flex;
-        align-items: center;
-        box-shadow: 2px 0 4px 0 rgba(188, 188, 188, 0.5);
-        -webkit-box-shadow: 2px 0 4px 0 rgba(188, 188, 188, 0.5);
-    }.optanon-alert-box-bottom-top {
-        height: 0;
-    }.optanon-alert-box-wrapper .optanon-alert-box-bottom-top {
-        height: 10px;
-    }.optanon-alert-box-wrapper a {
-        background-color: transparent;
-    }a.optanon-alert-box-close {
-        display: none;
-    }#optanon #optanon-popup-top .optanon-close, .optanon-alert-box-wrapper .optanon-alert-box-corner-close a {
-        float: right;
-        position: relative;
-        right: 5px;
-        top: 5px;
-        background: url(data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiIGlkPSJMYXllcl8xIiB4bWxuc…wwLjQtMC41LDAuNC0wLjlDNTIuOSw0OC4zLDUyLjcsNDgsNTIuNCw0Ny43eiIvPg0KPC9zdmc+);
-        background-size: 22px 22px;
-        width: 22px;
-        height: 22px;
-    }.optanon-alert-box-body {
-        padding-left: 20px;
-        padding-right: 20px;
-    }.optanon-alert-box-wrapper .legacy-banner-title {
-        font-weight: bold;
-        font-size: 11pt;
-        line-height: 16pt;
-        color: #fff !important;
-        padding-bottom: 5px;
-    }.optanon-alert-box-wrapper .optanon-alert-box-bg p {
-        font-size: 11pt;
-        line-height: 16pt;
-        color: #fff !important;
-        padding-bottom: 5px;
-    }.optanon-alert-box-wrapper .optanon-alert-box-bg p {
-        color: #FFFFFF !important;
-    }.optanon-alert-box-wrapper .optanon-alert-box-bg p {
-        max-width: 730px;
-    }.optanon-alert-box-wrapper .optanon-alert-box-body p:nth-child(2) {
-        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-        font-size: 15px;
-        font-weight: normal;
-        font-style: normal;
-        font-stretch: normal;
-        line-height: 2;
-        letter-spacing: 0.2px;
-        text-align: left;
-        color: #FFFFFF !important;
-    }.optanon-alert-box-wrapper a {
-        background-color: transparent;
-    }.optanon-alert-box-body p a {
-        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-        color: #FFF;
-        font-weight: normal;
-        text-decoration: underline;
-    }.optanon-alert-box-wrapper .legacy-banner-content .banner-policy-link {
-        text-decoration: underline !important;
-    }.optanon-alert-box-bg .optanon-alert-box-button-container {
-        display: flex;
-        align-items: center; 
-        justify-content: center;
+footer{
+  width: 100%;        
+  bottom: 0;
+  left: 0;
+  background: #111;
+}
+footer .content{
+  max-width: 1350px;
+  margin: auto;
+  padding: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+footer .content p,a{
+  color: #fff;
+}
+footer .content .box{
+  width: 33%;
+  transition: all 0.4s ease;
+}
+footer .content .topic{
+  font-size: 22px;
+  font-weight: 600;
+  color: #fff;
+  margin-bottom: 16px;
 
-    }.optanon-alert-box-wrapper .optanon-alert-box-button-middle {
-        background-color: #6cc04a;
-        border: 1px solid #6cc04a;
-        padding: 8px 18px;
-        font-size: 9pt;
-        font-weight: bold;
-    }.optanon-alert-box-wrapper .optanon-alert-box-button-middle {
-        background-color: #1F87FF !important;
-        border-color: #1F87FF !important;
-    }.optanon-alert-box-wrapper .optanon-alert-box-button-middle, #optanon #optanon-popup-wrapper .optanon-white-button-middle {
-        padding: 10px 20px;
-        border-radius: 3px;
-        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-        font-size: 15px;
-    }a.optanon-alert-box-close {
-        display: none;
-    }.optanon-alert-box-wrapper .optanon-alert-box-button-middle a {
-        color: #fff !important;
-        font-size: 13px;
-        font-weight: bold;
-        text-decoration: none;
-        position: relative;
-    }.optanon-alert-box-wrapper .optanon-alert-box-button-middle a {
-        color: #000 !important;
-    }.optanon-alert-box-wrapper .optanon-alert-box-button-middle a {
-        font-size: 14px;
-    }.optanon-alert-box-wrapper .optanon-alert-box-button {
-        float: right;
-        margin-right: 30px;
-        margin-bottom: 10px;
-        line-height: initial;
-    }.optanon-alert-box-wrapper .optanon-alert-box-button-middle {
-        background-color: #6cc04a;
-        border: 1px solid #6cc04a;
-        padding: 8px 18px;
-        font-size: 9pt;
-        font-weight: bold;
-    }.optanon-alert-box-wrapper .optanon-alert-box-button-middle {
-        background-color: #fdd80b !important;
-        border-color: #988100 !important;
-    }.optanon-alert-box-wrapper .optanon-alert-box-button-middle, #optanon #optanon-popup-wrapper .optanon-white-button-middle {
-        padding: 10px 20px;
-        border-radius: 3px;
-        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-        font-size: 15px;
-    }.optanon-alert-box-wrapper a {
-        background-color: transparent;
-    }.optanon-alert-box-wrapper .optanon-alert-box-button-middle a {
-        color: #fff !important;
-        font-size: 13px;
-        font-weight: bold;
-        text-decoration: none;
-        position: relative;
-    }.optanon-alert-box-wrapper .optanon-alert-box-button-middle a {
-        color: #000 !important;
-    }.optanon-alert-box-wrapper .optanon-alert-box-button-middle a {
-        font-size: 14px;
-    }.optanon-alert-box-wrapper .optanon-alert-box-button {
-
-    }.optanon-alert-box-wrapper .optanon-button-more .optanon-alert-box-button-middle a {
-        border-bottom: 1px solid #999;
-        padding-bottom: 1px;
-        color: #fff !important;
-    }.optanon-alert-box-wrapper .optanon-alert-box-bottom-padding {
-        padding-bottom: 10px;
-    }.optanon-alert-box-wrapper .optanon-button-more .optanon-alert-box-button-middle {
-        border: none !important;
-        background: none !important;
-        padding: 10px 10px 0 0px;
-    }.optanon-alert-box-bg {
-        display: flex;
-        align-items: center;
-        justify-content: space-between;
-    }
-
-    /*overlay starts */
-    .blocked > div {
-        max-width: 500px;
-        margin:0 auto;
-        text-align:center;
-        padding:80px 20px;
-    }
-
-    .blocked {
-        position: fixed;
-        width: 100%;
-        height: 100%;
-        background-color: rgba(0,0,0,0.9);
-        top: 0;
-        left: 0;  
-        z-index: 11111111111;
-        padding-top: 9%;
-    }
-
-    .blocked * {
-        color: #fff;
-        font-family: arial;
-        font-size: 26px;
-    }
-
-    .blocked h3 {
-        font-size: 44px;
-    }
-    /*overlay ends*/
-    @media only screen and (max-width: 767px){
-        /*overlay starts*/
-        .blocked{padding-top: 25%;}
-        .blocked h3 {
-            font-size: 30px;
-        }
-        .blocked * {
-            font-size: 18px;
-        }.blocked svg {
-            width: 62px;
-        }
-        /*overlay ends*/
-    }
-
-    footer{
-        width: 100%;        
-        bottom: 0;
-        left: 0;
-        background: #111;
-      }
-      footer .content{
-        max-width: 1350px;
-        margin: auto;
-        padding: 20px;
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: space-between;
-      }
-      footer .content p,a{
-        color: #fff;
-      }
-      footer .content .box{
-        width: 33%;
-        transition: all 0.4s ease;
-      }
-      footer .content .topic{
-        font-size: 22px;
-        font-weight: 600;
-        color: #fff;
-        margin-bottom: 16px;
-      
-      }
-      footer .content p{
-        text-align: justify;
-      }
-      footer .content .lower .topic{
-        margin: 24px 0 5px 0;
-      }
-      footer .content .lower i{
-        padding-right: 16px;
-      }
-      footer .content .middle{
-        padding-left: 80px;
-      }
-      footer .content .middle a{
-        line-height: 32px;
-      }
-      footer .content .right input[type="text"]{
-        height: 45px;
-        width: 100%;
-        outline: none;
-        color: #d9d9d9;
-        background: #000;
-        border-radius: 5px;
-        padding-left: 10px;
-        font-size: 17px;
-        border: 2px solid #222222;
-      }
-      footer .content .right input[type="submit"]{
-        height: 42px;
-        width: 100%;
-        font-size: 18px;
-        color: #d9d9d9;
-        background: #eb2f06;
-        outline: none;
-        border-radius: 5px;
-        letter-spacing: 1px;
-        cursor: pointer;
-        margin-top: 12px;
-        border: 2px solid #eb2f06;
-        transition: all 0.3s ease-in-out;
-      }
-      .content .right input[type="submit"]:hover{
-        background: none;
-        color:  #eb2f06;
-      }
-      footer .content .media-icons a{
-        font-size: 16px;
-        height: 45px;
-        width: 45px;
-        display: inline-block;
-        text-align: center;
-        line-height: 43px;
-        border-radius: 5px;
-        border: 2px solid #222222;
-        margin: 30px 5px 0 0;
-        transition: all 0.3s ease;
-      }
-      .content .media-icons a:hover{
-        border-color: #eb2f06;
-      }
-      footer .bottom{
-        width: 100%;
-        text-align: right;
-        color: #d9d9d9;
-        padding: 0 40px 5px 0;
-      }
-      footer .bottom a{
-        color: #eb2f06;
-      }
-      footer a{
-        transition: all 0.3s ease;
-      }
-      footer a:hover{
-        color: #eb2f06;
-      }
-      @media (max-width:1100px) {
-        footer .content .middle{
-          padding-left: 50px;
-        }
-      }
-      @media (max-width:950px){
-        footer .content .box{
-          width: 50%;
-        }
-        .content .right{
-          margin-top: 40px;
-        }
-      }
-      @media (max-width:560px){
-        footer{
-          position: relative;
-        }
-        footer .content .box{
-          width: 100%;
-          margin-top: 30px;
-        }
-        footer .content .middle{
-          padding-left: 0;
-        }
-      }
-       
+}
+footer .content p{
+  text-align: justify;
+}
+footer .content .lower .topic{
+  margin: 24px 0 5px 0;
+}
+footer .content .lower i{
+  padding-right: 16px;
+}
+footer .content .middle{
+  padding-left: 80px;
+}
+footer .content .middle a{
+  line-height: 32px;
+}
+footer .content .right input[type="text"]{
+  height: 45px;
+  width: 100%;
+  outline: none;
+  color: #d9d9d9;
+  background: #000;
+  border-radius: 5px;
+  padding-left: 10px;
+  font-size: 17px;
+  border: 2px solid #222222;
+}
+footer .content .right input[type="submit"]{
+  height: 42px;
+  width: 100%;
+  font-size: 18px;
+  color: #d9d9d9;
+  background: #eb2f06;
+  outline: none;
+  border-radius: 5px;
+  letter-spacing: 1px;
+  cursor: pointer;
+  margin-top: 12px;
+  border: 2px solid #eb2f06;
+  transition: all 0.3s ease-in-out;
+}
+.content .right input[type="submit"]:hover{
+  background: none;
+  color:  #eb2f06;
+}
+footer .content .media-icons a{
+  font-size: 16px;
+  height: 45px;
+  width: 45px;
+  display: inline-block;
+  text-align: center;
+  line-height: 43px;
+  border-radius: 5px;
+  border: 2px solid #222222;
+  margin: 30px 5px 0 0;
+  transition: all 0.3s ease;
+}
+.content .media-icons a:hover{
+  border-color: #eb2f06;
+}
+footer .bottom{
+  width: 100%;
+  text-align: right;
+  color: #d9d9d9;
+  padding: 0 40px 5px 0;
+}
+footer .bottom a{
+  color: #eb2f06;
+}
+footer a{
+  transition: all 0.3s ease;
+}
+footer a:hover{
+  color: #eb2f06;
+}
+@media (max-width:1100px) {
+  footer .content .middle{
+    padding-left: 50px;
+  }
+}
+@media (max-width:950px){
+  footer .content .box{
+    width: 50%;
+  }
+  .content .right{
+    margin-top: 40px;
+  }
+}
+@media (max-width:560px){
+  footer{
+    position: relative;
+  }
+  footer .content .box{
+    width: 100%;
+    margin-top: 30px;
+  }
+  footer .content .middle{
+    padding-left: 0;
+  }
+}
+  
       
